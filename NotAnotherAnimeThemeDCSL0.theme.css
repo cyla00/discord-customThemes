@@ -26,8 +26,8 @@
     Change the theme background
     Default: https://i.imgur.com/j1Z6HVc.jpg
     */
-    /* --background-image: url(https://i.ibb.co/mS9sXzh/wallpaperflare-com-wallpaper-5.jpg); */
-    --background-image: url(http://5tep5.com/wp-content/uploads/2017/09/02-14-1024x683.jpg);
+    --background-image: url(https://i.ibb.co/h9P0XLs/pexels-micha-osi-ski-3454270.jpg);
+    /* --background-image: url(http://5tep5.com/wp-content/uploads/2017/09/02-14-1024x683.jpg); */
 
     /*
     Change your friends icon image
@@ -51,7 +51,7 @@
     Change the main theme color
     Default: rgb(67, 181, 129)
     */
-    --main-color: rgb(241,72,95);
+    --main-color: rgb(210, 220, 230);
 
     /*
     Change global transparency
